@@ -6,4 +6,8 @@ print("ladder-1:9 to 34")
 print("ladder-2:38 to 64")
 print("ladder-3:61 to 99")
 print("ladder-2:25 to 76")
+roll1=int(input("Enter the player_1 enter 1:"))
+roll2=int(input("Enter the player_2 enter 2:"))
+if roll1==1:
+    
 
