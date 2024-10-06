@@ -1,0 +1,11 @@
+button{
+    color: #ff5645;
+    background-attachment: fixed;
+    border-color: #ff3492;
+    margin-block: black;
+    padding-left: auto;
+    height: 50px;
+    border-top-width: 3px;
+    max-width: 39px;
+
+}
