@@ -9,3 +9,12 @@ button{
     max-width: 39px;
 
 }
+body{
+    background-color:darkslategray;
+}
+input{
+    background-attachment: fixed;
+    border-radius: 20%;
+    max-height: 543px;
+    max-block-size: 55px;
+}
