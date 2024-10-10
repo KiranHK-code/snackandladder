@@ -13,6 +13,7 @@ while (player_1 and player_2)==100:
     roll2=int(input("Enter the player_2 enter 2:"))
     import random
     random.randint(1,6)
+    position=position+random
 
     
 
