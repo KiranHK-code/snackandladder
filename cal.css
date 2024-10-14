@@ -6,7 +6,7 @@ button{
     padding-left: auto;
     height: 50px;
     border-top-width: 3px;
-    max-width: 61px;
+    width: 61px;
 
 }
 body{
@@ -14,7 +14,7 @@ body{
 }
 input{
     background-attachment: fixed;
-    border-radius: 20%;
+    border-radius: 20px;
     max-height: 543px;
     max-block-size: 55px;
    padding: 2px 5px 3px 1px;
