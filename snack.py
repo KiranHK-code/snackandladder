@@ -8,12 +8,17 @@ print("ladder-3:61 to 99")
 print("ladder-2:25 to 76")
 player_1=(input("enter the player_1 name: "))
 player_2=(input("enter the player_2 name: "))
+position1=0
+position2=0
 while (player_1 and player_2)==100:
     roll1=int(input("Enter the player_1 enter 1:"))
     roll2=int(input("Enter the player_2 enter 2:"))
     import random
     random.randint(1,6)
-    position=position+random
+    position1=position1+random
+    position2=position2+random
+
+
 
     
 
