@@ -18,4 +18,6 @@ input{
     max-height: 543px;
     max-block-size: 55px;
    padding: 2px 5px 3px 1px;
+   margin: none;
+   justify-content: center;
 }
