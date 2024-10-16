@@ -17,6 +17,10 @@ while (player_1 and player_2)==100:
     random.randint(1,6)
     position1=position1+random
     position2=position2+random
+    if position1==20:
+        position1=2
+    elif position1==65:
+        position1=22
 
 
 
