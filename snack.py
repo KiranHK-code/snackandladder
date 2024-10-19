@@ -21,6 +21,8 @@ while (player_1 and player_2)==100:
         position1=2
     elif position1==65:
         position1=22
+    elif position1==83:
+        position1=34
 
 
 
